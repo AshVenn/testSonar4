@@ -1,6 +1,6 @@
 <?php
 // Issue 1: Unused variable
-$unusedVariable = "This is an unused variable.";
+$unusedVariable = "This is an unused variable2.";
 
 // Issue 2: Unused function
 function unusedFunction() {
